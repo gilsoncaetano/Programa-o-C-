@@ -1,7 +1,9 @@
 ﻿using System;
 
 class Program {
-  
+	// Desenvolvedor *** Gilson Caetano *** 
+	// Projeto em Linguagem C# Compesa Abastecer com Gasolina / Álcool
+	// Iniciante com C#
 	public static void Main (string[] args) {
 		double gasolina,etanol;
 		string decisao = "";
@@ -16,7 +18,7 @@ class Program {
 
 	while (decisao != "s" && decisao != "S")
 		{
-    texto = "Sejá Bem vindo: " + (nome);
+    texto = "Sejá Bem vindo ao simulado: " + (nome);
 	texto = texto.ToUpper();
 	Console.WriteLine(texto);
 	
@@ -28,7 +30,7 @@ class Program {
    
 	double gas = 0.7 * gasolina;
     double eta = 0.7 * etanol;
-	
+		
     Console.WriteLine("Gasolina: {0:N2}",  gas );
     Console.WriteLine("Etanol: {0:N2}",  eta );
 
