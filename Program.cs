@@ -3,7 +3,7 @@
 class Program {
 	// Desenvolvedor *** Gilson Caetano *** 
 	// Projeto em Linguagem C# Compesa Abastecer com Gasolina / Álcool
-	// Iniciante com C#
+	// Iniciante com programação em C#
 	public static void Main (string[] args) {
 		double gasolina,etanol;
 		string decisao = "";
