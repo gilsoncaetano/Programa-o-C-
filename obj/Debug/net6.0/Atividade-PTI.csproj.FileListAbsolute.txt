@@ -1,0 +1,15 @@
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\bin\Debug\net6.0\Atividade-PTI.exe
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\bin\Debug\net6.0\Atividade-PTI.deps.json
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\bin\Debug\net6.0\Atividade-PTI.runtimeconfig.json
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\bin\Debug\net6.0\Atividade-PTI.dll
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\bin\Debug\net6.0\Atividade-PTI.pdb
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.csproj.AssemblyReference.cache
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.AssemblyInfoInputs.cache
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.AssemblyInfo.cs
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.csproj.CoreCompileInputs.cache
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.dll
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\refint\Atividade-PTI.dll
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.pdb
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\Atividade-PTI.genruntimeconfig.cache
+C:\Documento-Facudade\ALGORITMOS E PROGRAMAÇÃO\AULA-WEB\Atividade-PTI\obj\Debug\net6.0\ref\Atividade-PTI.dll
